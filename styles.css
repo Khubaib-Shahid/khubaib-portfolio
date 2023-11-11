@@ -57,7 +57,7 @@ h2 > span{
     position: absolute;
     top: 23px;
     cursor: pointer;
-    transition: transform 2s;
+    transition: transform 1.5s;
 }
 .assign1{
     background: rgb(18,102,8);
